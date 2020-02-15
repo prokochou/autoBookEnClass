@@ -1,6 +1,6 @@
 Environment
-===========
-	1. Mac OSX 10.15.3 used
+===========	
+  1. Mac OSX 10.15.3 used
   2. Python 3.5
   3. Install Appium/appium-1.6.5.dmg (Install Appium step by step: http://www.automationtestinghub.com/appium-tutorial/) 
 	
